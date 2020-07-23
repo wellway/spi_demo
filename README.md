@@ -12,3 +12,4 @@
 3.manager  项目中使用spi主体
 
 
+项目参考：https://mp.weixin.qq.com/s/Y-PFZwzSORsznJYRfiM3DA
