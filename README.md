@@ -3,6 +3,9 @@
 
 项目介绍：
 1.interface 项目中需要实现的接口
+
 2.poorpeople  实现interface接口方式1
+
 2.richpeople  实现interface接口方式2
+
 3.manager  项目中使用spi主体
